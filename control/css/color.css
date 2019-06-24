@@ -1,0 +1,54 @@
+.custom-navbar .navbar-nav > li > a:hover,
+.custom-navbar .navbar-nav > li > a:focus,
+.nav li a.active,
+.custom-navbar .nav li.active > a,
+.special,
+#home h1 span,
+#about h2,
+.btn-about:hover,
+#hire-me a:hover,
+#contact div.btn:hover,
+.name {
+  color:#3498db;
+}
+#home a,
+.btn-about {
+    background-color:#3498db;
+    border:1px solid #3498db;
+}
+#home a:hover,
+#home a:focus {
+    color:#3498db;
+    border:1px solid #3498db;
+}
+.feature:hover,
+#hire-me a,
+#contact div.btn,
+#contact .info:hover {
+    background-color:#3498db;
+}
+figure.effect {
+	background: #3498db;
+}
+
+#contact input:focus,
+#contact textarea:focus {
+    -webkit-box-shadow:0 0 7px #3498db;
+    box-shadow:0 0 7px #3498db;
+}
+
+#footer .social-media a:hover {
+    color:#3498db;
+    background-color:#3498db;
+}
+.option {
+    background-color:#3498db;
+}
+@media only screen and (max-width: 768px) { 
+    /* Nav */
+    .custom-navbar .navbar-toggle .icon-bar {
+        color:#3498db;
+        background-color:#3498db;
+    }
+
+}
