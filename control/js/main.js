@@ -1,14 +1,4 @@
-/*global $, WOW*/
-/*
-===========================================================================
- EXCLUSIVE ON themeforest.net
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- Project Name		: Persoway - Responsive CV/Resume Template
- Author             : Yahya Essam
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- Copyright (c) 2016 - Yahya Essam - https://themeforest.net/user/yahyaessam
-===========================================================================
-*/
+
 var $window = $(window), /* window cash */
 	$loading = $('.loading'), /* loading cash */
 	$body = $("body"), /* body cash */
