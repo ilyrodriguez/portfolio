@@ -794,7 +794,7 @@ p.address:before {
     background-image: url(../img/footer.png);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 100%;
+    background-size: cover;
     color:#ffffff;
     padding:100px 0;
 }
@@ -872,6 +872,7 @@ p.address:before {
     /* contact */
     .tab {
         margin-left:15px;
+        text-align: -webkit-center;
     }
     /*portfolio */
     figure {
@@ -903,14 +904,19 @@ p.address:before {
     }
     #home h1 {
         font-size:20px;
+        font-weight: 900;
     }
     /* about */
+    section#about {
+        text-align: -webkit-center;
+    }
+
     #about h2 {
         margin-top:45px;
         line-height:25px;
     }
     #about p {
-        margin: 30px 20px 10px 10px;
+        margin: 30px 10px 10px 10px;
     }
     #about h3 {
         line-height: 25px;
