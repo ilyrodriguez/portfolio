@@ -57,7 +57,7 @@ $(function () {
 			}, 800, function () {
 				window.location.hash = hash;
 			});
-		}
+		} console.log(hash);
 	});
     /* Wow */
     new WOW().init();
